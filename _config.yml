@@ -1,0 +1,50 @@
+# Site settings
+title: "Ondrej Klejch: PhD Student at University of Edinburgh"
+description: "Ondrej Klejch: PhD Student at University of Edinburgh"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Ondrej Klejch"
+resume_title:                   "PhD Student"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "ondrej.klejch@gmail.com"
+
+resume_header_intro: "<p>I am a PhD student within the <a href='http://www.ilcc.inf.ed.ac.uk'>ILCC</a> and <a href='http://www.cstr.ed.ac.uk/'>CSTR</a> institutes of the School of Informatics at the University of Edinburgh. My supervisors are <a href='http://homepages.inf.ed.ac.uk/srenals/'>Steve Renals</a> and <a href='http://homepages.inf.ed.ac.uk/pbell1/'>Peter Bell</a>.</p>"
+
+# Decide which sections to use
+# comment out to hide
+# resume_section_experience:      true
+# resume_section_education:       true
+resume_section_projects:        true
+# resume_section_skills:          true
+# resume_section_recognition:     true
+# resume_section_links:           true
+# resume_section_associations:    true
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/choko"
+  resume_twitter_url:           "http://twitter.com/ondrejklejch"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/ondrejklejch"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:           "http://www.ondrejklejch.cz"
+  # resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
