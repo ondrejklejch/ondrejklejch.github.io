@@ -32,7 +32,7 @@ resume_section_projects:        true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/choko"
+  resume_github_url:            "https://github.com/ondrejklejch"
   resume_twitter_url:           "http://twitter.com/ondrejklejch"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
