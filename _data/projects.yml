@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 - project: CloudASR
-  # duration: 2012 &mdash; Present
+  duration: 2014 &mdash; 2015
   url: "https://github.com/UFAL-DSG/cloud-asr"
   description: CloudASR is a cloud based automatic speech recognition platform which supports both batch and online speech recognition. The key features are scalability, customizability and easy deployment. It is tested to be able to handle more than 1000 parallel requests given enough computational resources.
 
 - project: MT-ComparEval
-  # duration: 2007 &mdash; Present
+  duration: 2011 &mdash; 2013
   url: "https://github.com/choko/MT-ComparEval"
   description: MT–ComparEval is a tool for comparison and evaluation of machine translation. Translations can be compared according to automatic metrics for whole documents or single sentences. Differences between translations can be visualized by highlighting matching/missing n-grams etc.

@@ -16,7 +16,10 @@ resume_title:                   "Research Associate"
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "ondrej.klejch@gmail.com"
 
-resume_header_intro: "<p>I am a Postdoctoral Research Associate within the <a href='http://www.ilcc.inf.ed.ac.uk'>ILCC</a> and <a href='http://www.cstr.ed.ac.uk/'>CSTR</a> institutes of the School of Informatics at the University of Edinburgh. My supervisors are <a href='http://homepages.inf.ed.ac.uk/srenals/'>Steve Renals</a> and <a href='http://homepages.inf.ed.ac.uk/pbell1/'>Peter Bell</a>.</p>"
+resume_header_intro: "
+  <p>
+    I am a Postdoctoral Research Associate within the <a href='http://www.ilcc.inf.ed.ac.uk'>ILCC</a> and <a href='http://www.cstr.ed.ac.uk/'>CSTR</a> institutes of the School of Informatics at the University of Edinburgh. I work on semi-supervised automatic speech recognition for low-resource languages within the <a href='https://www.iarpa.gov/index.php/research-programs/material'>IARPA MATERIAL</a> programme. My supervisors are <a href='http://homepages.inf.ed.ac.uk/srenals/'>Steve Renals</a> and <a href='http://homepages.inf.ed.ac.uk/pbell1/'>Peter Bell</a>.
+  </p>"
 
 # Decide which sections to use
 # comment out to hide
