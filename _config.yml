@@ -1,6 +1,6 @@
 # Site settings
-title: "Ondrej Klejch: Research Associate at the University of Edinburgh"
-description: "Ondrej Klejch: Research Associate at the University of Edinburgh"
+title: "Ondrej Klejch: Senior Researcher at the University of Edinburgh"
+description: "Ondrej Klejch: Senior Researcher at the University of Edinburgh"
 
 # Build settings
 markdown: kramdown
@@ -11,14 +11,14 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Ondrej Klejch"
-resume_title:                   "Research Associate"
+resume_title:                   "Senior Researcher"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "ondrej.klejch@gmail.com"
 
 resume_header_intro: "
   <p>
-    I am a Postdoctoral Research Associate within the <a href='http://www.ilcc.inf.ed.ac.uk'>ILCC</a> and <a href='http://www.cstr.ed.ac.uk/'>CSTR</a> institutes of the School of Informatics at the University of Edinburgh. I work on zero-resource cross-lingual transfer for low-resource languages within the <a href='https://unmute.tech'>EPSRC UnMute</a> project. My supervisor is <a href='http://homepages.inf.ed.ac.uk/pbell1/'>Peter Bell</a>.
+    I am a Senior Researcher within the <a href='http://www.ilcc.inf.ed.ac.uk'>ILCC</a> and <a href='http://www.cstr.ed.ac.uk/'>CSTR</a> institutes of the School of Informatics at the University of Edinburgh. I work with <a href='http://homepages.inf.ed.ac.uk/pbell1/'>Peter Bell</a> on zero-resource cross-lingual transfer for low-resource languages within the <a href='https://unmute.tech'>EPSRC UnMute</a> project.
   </p>"
 
 # Decide which sections to use
