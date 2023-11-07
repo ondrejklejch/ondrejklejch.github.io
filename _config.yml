@@ -18,7 +18,7 @@ resume_contact_email:           "ondrej.klejch@gmail.com"
 
 resume_header_intro: "
   <p>
-    I am a Senior Researcher within the <a href='http://www.ilcc.inf.ed.ac.uk'>ILCC</a> and <a href='http://www.cstr.ed.ac.uk/'>CSTR</a> institutes of the School of Informatics at the University of Edinburgh. I work with <a href='http://homepages.inf.ed.ac.uk/pbell1/'>Peter Bell</a> on zero-resource cross-lingual transfer for low-resource languages within the <a href='https://unmute.tech'>EPSRC UnMute</a> project.
+    I am a Senior Researcher within the <a href='http://www.ilcc.inf.ed.ac.uk'>ILCC</a> and <a href='http://www.cstr.ed.ac.uk/'>CSTR</a> institutes of the School of Informatics at the University of Edinburgh.  I have been working on building speech-to-text systems with limited training data and supervision within several large projects funded by EPSRC, H2020, and IARPA. I am currently working with <a href='http://homepages.inf.ed.ac.uk/pbell1/'>Peter Bell</a> on zero-resource cross-lingual transfer for low-resource languages within the <a href='https://unmute.tech'>EPSRC UnMute</a> project.
   </p>"
 
 # Decide which sections to use
