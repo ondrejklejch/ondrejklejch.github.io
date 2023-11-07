@@ -106,11 +106,12 @@
           <h2>Publications</h2>
         </header>
 
-        {% for paper in site.data.papers %}
-          <p class="resume-item-copy">{{ paper.authors }} &quot;{{ paper.title }}&quot; {{ paper.venue }}</p>
+        {% for papers_per_year in site.data.papers %}
+          <h3>{{ papers_per_year.year }}</h3>
+          {% for paper in papers_per_year.papers %}
+            <p class="resume-item-copy">{{ paper.authors }} &quot;{{ paper.title }}&quot; {{ paper.venue }}</p>
+          {% endfor %}
         {% endfor %}
-        
-
       </section>
 
 
