@@ -1,6 +1,26 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: EPSRC UnMute
+  duration: 2020 &mdash; 2024
+  url: "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T024976/1"
+  description: UnMute aims to address the limitations of today's speech and voice-based interactions and open up intelligent interfaces to the currently digitally ‘unheard’. In this project, I have developed methods for zero-resource cross-lingual transfer of ASR models and methods for spoken information retrieval in unwritten languages.
+
+- project: EPSRC COG-MHEAR
+  duration: 2021 &mdash; 2025
+  url: "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T021063/1"
+  description: The goal of COG-MHEAR is to develop cognitively-inspired 5G-IoT enabled, multi-modal hearing aids. In this project, I helped co-organise the Audio-Visual Speech Enhancement challenge and I worked on devising new protocols for evaluation of speech enhancements models.
+
+- project: IARPA Material
+  duration: 2016 &mdash; 2021
+  url: "https://www.iarpa.gov/research-programs/material"
+  description: The goal of Material was to develop a tool that would allow analysts to consume foreign text and speech media regardless of their language expertise. I worked on semi-supervised training of ASR models that allowed us to train models with small amounts of manually transcribed data and large amounts of crawled text and speech.
+
+- project: H2020 SUMMA
+  duration: 2016 &mdash; 2019
+  url: "https://cordis.europa.eu/project/id/688139"
+  description: The goal of SUMMA was to develop a platform to automate the analysis of media streams across many languages. In this project, I developed methods for automatic punctuation prediction in ASR transcripts and I was responsible deployment of ASR and punctuation models.
+
 - project: CloudASR
   duration: 2014 &mdash; 2015
   url: "https://github.com/UFAL-DSG/cloud-asr"
