@@ -1,3 +1,11 @@
+- year: 2024
+  papers:
+  - authors: "T. Reitmaier, D. K. Raju, <strong>O. Klejch</strong>,  E. Wallington,  N. Markl, J. Pearson, M. Jones, P. Bell, S. Robinson"
+    title: "Cultivating Spoken Language Technologies for Unwritten Languages"
+    venue: "In CHI 2024 (<strong>honorable mention</strong>)"
+  - authors: "A. Hussein, D. Zeinali, <strong>O. Klejch</strong>, M. Wiesner, B. Yan, S. Chowdhury, A. Ali, S. Watanabe, S. Khudanpur"
+    title: "Speech collage: code-switched audio generation by collaging monolingual corpora"
+    venue: "In ICASSP 2024"
 - year: 2023
   papers:
   - authors: "L.-M. Lam-Yee-Mui, L. Ondel, <strong>O. Klejch</strong>"
