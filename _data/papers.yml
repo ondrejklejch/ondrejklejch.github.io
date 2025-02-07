@@ -1,3 +1,11 @@
+- year: 2025
+  papers:
+  - authors: "C. Jacobs, A. Smith, D. Klop, <strong>O. Klejch</strong>, F. de Wet, H. Kamper"
+    title: "Speech Recognition for Automatically Assessing Afrikaans and isiXhosa Preschool Oral Narratives"
+    venue: "In ICASSP 2025."
+  - authors: "W. Lamb, D. Han, <strong>O. Klejch</strong>, B. Alex, P. Bell"
+    title: "Synthesising a Corpus of Gaelic Traditional Narrative with Cross-Lingual Text Expansion"
+    venue: "In 5th Celtic Language Technology Workshop."
 - year: 2024
   papers:
   - authors: "C. Minixhofer, <strong>O. Klejch</strong>, P. Bell"
