@@ -35,6 +35,7 @@ resume_section_projects:        true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
+  resume_scholar_url:           "https://scholar.google.com/citations?user=m09gyQ0AAAAJ&hl=en"
   resume_github_url:            "https://github.com/ondrejklejch"
   resume_twitter_url:           "http://twitter.com/ondrejklejch"
   # resume_dribbble_url:          "https://dribbble.com/jag"
