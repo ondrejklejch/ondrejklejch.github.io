@@ -1,5 +1,8 @@
 - year: 2025
   papers:
+  - authors: "S. Booshanam, K. Chen, <strong>O. Klejch</strong>, T. Reitmaier, D. K. Raju, E. Wallington, N. Markl, J. Pearson, M. Jones, S. Robinson, P. Bell"
+    title: "Spoken Document Retrieval for an Unwritten Language: A Case Study on Gormati"
+    venue: "In Findings of EMNLP 2025."
   - authors: "C. Minixhofer, <strong>O. Klejch</strong>, P. Bell"
     title: "TTSDS2: Robust Objective Evaluation for Human-Quality Synthetic Speech"
     venue: "In SSW 2025."
