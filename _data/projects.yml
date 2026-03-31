@@ -1,6 +1,11 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: ÈIST 
+  duration: 2023 &mdash; 2027
+  url: "https://blogs.ed.ac.uk/garg/2025/06/04/gaelic-in-the-digital-age-inside-the-eist-project/"
+  description: The goal of ÈIST is to develop speech and language technologies for Scottish Gaelic. I was responsible for developing a Scottish Gaelic ASR model, you can try it in this <a href="https://huggingface.co/spaces/eist-edinburgh/scottish-gaelic-subtitling">demo on HuggingFace</a>.
+  
 - project: EPSRC UnMute
   duration: 2020 &mdash; 2024
   url: "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T024976/1"
