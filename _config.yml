@@ -18,8 +18,15 @@ resume_contact_email:           "ondrej.klejch@gmail.com"
 
 resume_header_intro: "
   <p>
-    I am a Senior Researcher within the <a href='http://www.ilcc.inf.ed.ac.uk'>ILCC</a> and <a href='http://www.cstr.ed.ac.uk/'>CSTR</a> institutes of the School of Informatics at the University of Edinburgh.  I have been working on building speech-to-text systems with limited training data and supervision within several large projects funded by EPSRC, H2020, and IARPA. I am currently working with <a href='http://homepages.inf.ed.ac.uk/pbell1/'>Peter Bell</a> on zero-resource cross-lingual transfer for low-resource languages within the <a href='https://unmute.tech'>EPSRC UnMute</a> project.
-  </p>"
+    I am a Senior Researcher within the <a href='http://www.ilcc.inf.ed.ac.uk'>ILCC</a> and <a href='http://www.cstr.ed.ac.uk/'>CSTR</a> institutes of the School of Informatics at the University of Edinburgh.
+    I have been working on building speech-to-text systems with limited training data and supervision within several large projects funded by EPSRC, H2020, and IARPA.
+    I am currently working with <a href='https://edwebprofiles.ed.ac.uk/profile/william-lamb'>Will Lamb</a> and <a href='http://homepages.inf.ed.ac.uk/pbell1/'>Peter Bell</a> on building speech technologies for Scottish Gaelic within the <a href='https://blogs.ed.ac.uk/garg/2025/06/04/gaelic-in-the-digital-age-inside-the-eist-project/'>ÈIST</a> project.
+  </p>
+  
+  <p>
+    In summer 2026 I will lead a <a href="https://www.clsp.jhu.edu/the-12th-frederick-jelinek-memorial-summer-workshop-on-speech-and-language-technology/">JSALT project</a> called <a href="https://www.clsp.jhu.edu/simulating-full-duplex-conversations-for-evaluating-ai-systems/">Simulator for Evaluating Spoken Conversational AI</a>.
+  </p>
+  "
 
 # Decide which sections to use
 # comment out to hide
