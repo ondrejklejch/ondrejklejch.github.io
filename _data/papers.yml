@@ -1,3 +1,14 @@
+- year: 2026
+  papers: 
+  - authors: "C. Minixhofer, <strong>O. Klejch</strong>, P. Bell"
+    title: "TTSDS2: Resources and Benchmark for Evaluating Human-Quality Text to Speech Systems"
+    venue: "In ICLR 2026."
+  - authors: "S. H. Bokkahalli Satish, M. Teleki, C. Minixhofer, <strong>O. Klejch</strong>, P. Bell, E. Szekely"
+    title: '"Walk a Mile in My Voice": Voice Conversion Shapes Trust, Attribution, and Empathy in Human-AI Speech Interactions'
+    venue: "In IUI 2026."
+  - authors: "W. Lamb, D. Han, <strong>O. Klejch</strong>, P. Bell"
+    title: "Text-only Domain Adaptation for Low-Resource ASR Using Large Language Models"
+    venue: "In LLMs4SSH at LREC 2026."
 - year: 2025
   papers:
   - authors: "S. Booshanam, K. Chen, <strong>O. Klejch</strong>, T. Reitmaier, D. K. Raju, E. Wallington, N. Markl, J. Pearson, M. Jones, S. Robinson, P. Bell"
